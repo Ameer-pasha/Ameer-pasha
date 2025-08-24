@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameer.k126) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/ameer-pasha/](https://www.linkedin.com/in/ameer-pasha-k/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ameer-pasha-k/)
+
 
 
 # 💻 Tech Stack:
