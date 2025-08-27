@@ -20,21 +20,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-pasha&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer-pasha&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-###  Contribution Calendar
-<div align="center">
-  <a href="https://github.com/Ameer-pasha" target="_blank" title="Click to view full GitHub profile">
-    <img src="https://ghchart.rshah.org/409ba5/Ameer-pasha" alt="Ameer's GitHub Contribution Calendar - Click to explore" width="100%" style="border-radius: 8px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ameer-pasha&icon=0&color=0)](https://visitcount.itsvg.in)
