@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## GitHub Analytics Dashboard
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ameer-pasha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,8 +26,12 @@
 </p>
 
 
-### Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Ameer-pasha" alt="Contribution Calendar" width="100%"/>
+###  Contribution Calendar
+<div align="center">
+  <a href="https://github.com/Ameer-pasha" target="_blank" title="Click to view full GitHub profile">
+    <img src="https://ghchart.rshah.org/409ba5/Ameer-pasha" alt="Ameer's GitHub Contribution Calendar - Click to explore" width="100%" style="border-radius: 8px; transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
