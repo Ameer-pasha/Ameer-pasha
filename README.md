@@ -20,7 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-pasha&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
