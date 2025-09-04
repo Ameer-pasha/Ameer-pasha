@@ -19,8 +19,7 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 - 🔭 <b>Currently working on:</b> AI/ML projects & data science  
 - 🌱 <b>Learning:</b> Advanced Deep Learning & MLOps  
 - 👯 <b>Collaboration:</b> Open-source ML solutions  
-- 💬 <b>Ask me about:</b> Python, Machine Learning, Data Science  
-- 📫 <b>Connect with me:</b> Using the social badges below  
+- 💬 <b>Ask me about:</b> Python, Machine Learning, Data Science    
 - ⚡ <b>Fun fact:</b> AI will change the world — one algorithm at a time!  
 
   </td>
@@ -32,24 +31,6 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 
 ---
 
-## ✨ Socials
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ameer-pasha-k" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/ameer.pasha.02" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/Ameerpasha02" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
-  </a>
-</div>
-
----
 
 ## 💻 Tech Stack
 
@@ -72,14 +53,7 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ameer-pasha&theme=onedark&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
----
 
 ## 💡 Dev Wisdom
 <div align="center">
