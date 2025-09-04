@@ -29,6 +29,13 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 </tr>
 </table>
 
+<h3> ✨ I Like</h3>
+
+- 🎬 Watching Anime  
+- 🎮 Playing Games  
+- 📚 Reading Tech Blogs & Manga
+<br>
+
 ---
 
 
@@ -46,8 +53,6 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 <a href="http://www.github.com/Ameer-pasha"><img src="https://github-readme-stats.vercel.app/api?username=Ameer-pasha&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Ameer's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ameer-pasha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ameer-pasha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Ameer-pasha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-pasha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 </div>
 
