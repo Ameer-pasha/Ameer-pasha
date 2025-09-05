@@ -58,8 +58,6 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 
 ---
 
-
-
 ## 💡 Dev Wisdom
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
