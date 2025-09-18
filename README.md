@@ -24,7 +24,6 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 - 🌱 <b>Learning:</b> Advanced Deep Learning & MLOps  
 - 👯 <b>Collaboration:</b> Open-source ML solutions  
 - 💬 <b>Ask me about:</b> Python, Machine Learning, Data Science    
-- ⚡ <b>Fun fact:</b> AI will change the world — one algorithm at a time!  
 
   </td>
   <td width="40%">
