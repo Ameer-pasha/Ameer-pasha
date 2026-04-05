@@ -3,6 +3,7 @@
   <b>I'm Ameer Pasha</b>
 </h1>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&pause=1000&color=0077b6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Python+Developer;Aspiring+Data+Scientist;Building+AI+Solutions;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </div>
