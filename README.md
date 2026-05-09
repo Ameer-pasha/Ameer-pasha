@@ -3,11 +3,10 @@
   <b>I'm Ameer Pasha</b>
 </h1>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&pause=1000&color=0077b6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Python+Developer;Aspiring+Data+Scientist;Building+AI+Solutions;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=28&duration=3000&pause=1000&color=0077b6&center=true&vCenter=true&width=700&lines=AI%E3%83%BBML%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Python%E9%96%8B%E7%99%BA%E8%80%85;%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;AI%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD;%E3%82%A4%E3%83%B3%E3%83%89%E5%87%BA%E8%BA%AB" alt="Typing SVG" />
 
+</div>
 ---
 
 
@@ -30,11 +29,13 @@ When I'm not coding, you'll find me exploring the latest trends in AI or working
 </tr>
 </table>
 
-<h3> ✨ I Like</h3>
+<h3> ✨ 好きなこと / Things I Like</h3>
 
-- 🎬 Watching Anime  
-- 🎮 Playing Games  
-- 📚 Reading Tech Blogs & Manga
+- 🎬 アニメを見ること (Watching Anime)  
+- 🎮 ゲームをすること (Playing Games)  
+- 📚 技術ブログや漫画を読むこと (Reading Tech Blogs & Manga)  
+- 🌸 日本語を勉強中です (Studying Japanese)  
+- 🍜 日本の文化や食べ物が好きです (I Like Japanese Culture & Food)
 <br>
 
 ---
