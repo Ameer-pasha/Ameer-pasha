@@ -1,7 +1,6 @@
 <h1 align="center">
   💫 <b>Hi</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, 
   <b>I'm Ameer Pasha</b>
-  
 </h1>
 
 
