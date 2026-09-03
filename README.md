@@ -5,6 +5,7 @@
 
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=28&duration=3000&pause=1000&color=0077b6&center=true&vCenter=true&width=700&lines=AI%E3%83%BBML%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Python%E9%96%8B%E7%99%BA%E8%80%85;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD%E3%81%A7%E3%81%99;AI%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD;%E3%82%A4%E3%83%B3%E3%83%89%E5%87%BA%E8%BA%AB" alt="Typing SVG" />
 </div>
